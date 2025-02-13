@@ -11,7 +11,7 @@ competitor websites, and user reviews. The analysis focused on:
 - Market trends and customer pain points
   ## Tools Used
 - Google Search: To find fintech companies offering similar solutions
-- Crunchbase & LinkedIn: To analyze company backgrounds and funding
+- Crunchbase & LinkedIn: To analyze company backgrounds 
 - Company Websites & Product Documentation: To extract key product features
 - Online Reviews & Forums: To gather user feedback on competitor products
   ## Opportunities for Differentiation
@@ -20,3 +20,43 @@ improve success rates.
 - Unified Dashboard: A single platform for mobile money, bank, and card payments.
 - Small Business Focus: Tailoring features like invoicing and automated reconciliation.
 - AI-Powered Fraud Prevention: Implementing AI-driven fraud detection for better security.
+- Moderate Transaction Fee: So many businesses complain of high transaction fees they are being charged by current payment processing companies.
+ ## Target Audience Analysis
+ Primary Users:
+- Small and Medium Businesses (SMBs)
+- E-commerce Platforms
+- Freelancers & Service Providers
+- Retail Stores & Agents
+  ## Pain Points Identified
+- Transaction Failures
+- Complexity of Managing Multiple Payment Methods
+- High Transaction Fees
+- Security & Fraud Issues
+  ## Additional Insights
+- Regulatory Compliance
+- Partnership Opportunities
+- Marketing Strategy
+## Challenges Encountered
+- Limited Public Data
+- Changing Market Trends
+- Regulatory Barriers
+## Key Lessons Learned
+- A customer-first approach is essential.
+- Security and reliability are top concerns.
+- Differentiation is crucial.
+
+  PedMonie has an opportunity to succeed by focusing on reliability, simplicity, and tailored solutions.
+Implementing an AI-driven fraud prevention system and offering a truly unified payment platform will
+set it apart from competitors.
+
+
+
+
+
+
+
+
+
+
+
+ 
